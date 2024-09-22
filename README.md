@@ -29,4 +29,4 @@ A Chrome extension that displays live IPL match details.
 
 ## License
 Specify the license under which the project is distributed.
->>>>>>> Update README with setup instructions
+
