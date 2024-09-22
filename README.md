@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # IPL MATCHES CHROME EXTENSION
-=======
+
 # IPL Matches Extension
 
 ## Description
